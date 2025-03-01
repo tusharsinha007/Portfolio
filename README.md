@@ -1,11 +1,11 @@
 
-## 🖥️ Tushar Sinha – Portfolio - https://tusharsinha007.github.io/Portfolio/
+## 🖥️ Tushar Sinha
 
 Welcome to **Tushar Sinha's Portfolio** repository! This project is a showcase of my **skills**, **projects**, and **experience** as a **Full-Stack Web Developer**, passionate about building modern, interactive, and user-friendly applications.
 
 ## 🌐 Live Demo
 
-👉 [Visit My Portfolio](#)  <!-- You can replace with your actual GitHub Pages link once deployed -->
+👉  – Portfolio - https://tusharsinha007.github.io/Portfolio/<!-- You can replace with your actual GitHub Pages link once deployed -->
 
 ---
 
