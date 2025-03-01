@@ -1,12 +1,25 @@
-Tushar Sinha – Portfolio
 
-Welcome to Tushar Sinha’s portfolio! This website showcases my skills, projects, and expertise as a full-stack web developer passionate about building interactive and user-friendly applications.
-🚀 About the Portfolio
+## 🖥️ Tushar Sinha – Portfolio - https://tusharsinha007.github.io/Portfolio/
 
-This portfolio is a modern, responsive, and interactive web template designed to highlight my experience in front-end and back-end development. It features smooth animations, seamless navigation, and an elegant design to create an engaging user experience.
-✨ Features
-✅ Fully Responsive – Works flawlessly on all devices.
-✅ Smooth Animations – Powered by the AOS (Animate On Scroll) library.
-✅ Interactive Navigation – Smooth scrolling and intuitive UI.
-✅ Portfolio Showcase – Display of my projects and case studies.
-✅ Contact Form – Easy way for users to reach out.
+Welcome to **Tushar Sinha's Portfolio** repository! This project is a showcase of my **skills**, **projects**, and **experience** as a **Full-Stack Web Developer**, passionate about building modern, interactive, and user-friendly applications.
+
+## 🌐 Live Demo
+
+👉 [Visit My Portfolio](#)  <!-- You can replace with your actual GitHub Pages link once deployed -->
+
+---
+
+## 🚀 About This Portfolio
+
+This is a **modern, responsive, and interactive portfolio website** designed to highlight my expertise in both **front-end** and **back-end development**. The design focuses on **user experience** with **smooth animations** and **clean navigation** to provide visitors with a seamless browsing experience.
+
+---
+
+## ✨ Key Features
+
+- ✅ **Fully Responsive:** Adapts perfectly to all devices — mobile, tablet, and desktop.
+- ✅ **Smooth Animations:** Powered by the **AOS (Animate On Scroll)** library for subtle, professional effects.
+- ✅ **Interactive Navigation:** Clean navigation bar with smooth scrolling for better usability.
+- ✅ **Portfolio Showcase:** Dedicated section to highlight my **projects**, including case studies and project links.
+- ✅ **Contact Form:** Functional form allowing visitors to reach out directly.
+
